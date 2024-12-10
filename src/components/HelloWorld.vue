@@ -33,7 +33,7 @@ export default {
     data () {
       return {
         image: '',
-        uploadURL: 'ec2-54-226-75-67.compute-1.amazonaws.com:8080'
+        uploadURL: ''
       }
     },
   methods: {
