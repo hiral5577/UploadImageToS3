@@ -33,7 +33,7 @@ export default {
     data () {
       return {
         image: '',
-        uploadURL: ''
+        uploadURL: 'https://a8dt7l4ie3.execute-api.us-east-1.amazonaws.com/default/s3uploadimage'
       }
     },
   methods: {
